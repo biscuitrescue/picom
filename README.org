@@ -3,4 +3,4 @@
 ** My config for picom
 
 ** Need
-*** picom-jonaburg / picom-ibhagwan
+**** picom-jonaburg / picom-ibhagwan
