@@ -1,6 +1,4 @@
-#+TITLE: Readme
-
-** My config for picom
+#+TITLE: My config for picom
 
 ** Need
 **** picom-jonaburg / picom-ibhagwan
